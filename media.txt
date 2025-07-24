@@ -1,0 +1,43 @@
+/* Laptops pequenos e desktops - 1024px a 1199px */
+@media (min-width: 1024px) and (max-width: 1199px) {
+    /* Seus estilos aqui */
+}
+
+/* Desktops médios - 1200px a 1439px */
+@media (min-width: 1200px) and (max-width: 1439px) {
+    /* Seus estilos aqui */
+}
+
+/* Desktops grandes - 1440px a 1919px */
+@media (min-width: 1440px) and (max-width: 1919px) {
+    /* Seus estilos aqui */
+}
+
+/* Monitores extra grandes - 1920px e acima */
+@media (min-width: 1920px) {
+    /* Seus estilos aqui */
+}
+/* Telas menores que 1280px (HD) */
+@media (max-width: 1279px) {
+    /* Ajustes para telas menores que HD */
+}
+
+/* Telas HD (1280px) e maiores */
+@media (min-width: 1280px) {
+    /* Estilos para resoluções HD */
+}
+
+/* Telas Full HD (1920px) e maiores */
+@media (min-width: 1920px) {
+    /* Estilos para resoluções Full HD e superiores */
+}
+
+/* Telas 2K (2560px) e maiores */
+@media (min-width: 2560px) {
+    /* Ajustes para monitores 2K/QHD */
+}
+
+/* Telas 4K (3840px) e maiores */
+@media (min-width: 3840px) {
+    /* Ajustes para monitores 4K/UHD */
+}
