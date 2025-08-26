@@ -1,9 +1,10 @@
 import Link from "./Link"
+import styles from "./Nav.module.css"
 
 const Nav = () => {
   return (
     <nav>
-        <ul>
+        <ul className={styles.lista}>
             <li>
                 <Link 
                     url="www.linkedin.com/in/eduardo-frota-4162011a1"
