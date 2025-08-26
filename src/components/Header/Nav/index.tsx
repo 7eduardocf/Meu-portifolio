@@ -7,7 +7,7 @@ const Nav = () => {
         <ul className={styles.lista}>
             <li>
                 <Link 
-                    url="www.linkedin.com/in/eduardo-frota-4162011a1"
+                    url="https://www.linkedin.com/in/eduardo-frota-4162011a1/"
                     imagem="/linkedin.png"
                     alt="Logo linkedin"
                 />
