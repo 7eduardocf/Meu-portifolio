@@ -1,6 +1,6 @@
 .box:hover{
-    box-shadow: 0 0 10px rgba(0, 0, 0, .9) ;
-    
+    box-shadow: 0 0 19px rgba(2, 115, 94, 1) ;
+    transition: .3s;
 }
 .box{
     width: 32px;
